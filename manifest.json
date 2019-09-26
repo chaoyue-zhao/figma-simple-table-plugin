@@ -1,0 +1,7 @@
+{
+  "name": "Simple Table Generator ",
+  "id": "754386961063964303",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
